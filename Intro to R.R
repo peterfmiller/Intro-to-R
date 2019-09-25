@@ -1,5 +1,9 @@
-# R script to accopany Intro to R
-# Copy for RStudent 2019
+# R script to accompany Intro to R
+# Written by Peter Miller
+#
+# Copy for Peter Miller
+#
+# Customized by Peter Miller
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
